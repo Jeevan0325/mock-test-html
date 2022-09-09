@@ -1,0 +1,55 @@
+.header{
+    display: flex;
+    border: solid rgb(11, 11, 11) 2px;
+    justify-content: center;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.header-2{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: smaller;
+}
+.heading1{
+    margin-right: 10px;
+}
+.heading2{
+    margin-right: 10px;
+}
+.heading3{
+    margin-right: 10px;
+}
+.heading4{
+    margin-right: 10px;
+}
+.heading5{
+    margin-right: 10px;
+}
+
+
+.header-title{
+    font-size: larger;
+}
+.check-box{
+    margin-left: 800px;
+    margin-top: 20px;
+    height: 30px;
+    color: blue;
+}
+.button{
+    background-color: blue;
+    height: 30px;
+    margin-top: 20px;
+}
+.rat{
+    height: 50px;
+    width: 50px;
+    background-color: bisque;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
